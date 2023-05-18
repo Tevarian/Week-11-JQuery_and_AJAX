@@ -1,0 +1,24 @@
+button {
+  height: 75px;
+  width: 75px;
+  background-color: dimgrey;
+  border: 0px transparent;
+  border-radius: 10%;
+  margin: 0.25em;
+  padding: 0.25em;
+}
+
+.symbol {
+  width: 75px;
+  height: 75px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.x {
+  background: url(images/xmark-solid.svg);
+}
+
+.o {
+  background: url(images/o-solid.svg);
+}
